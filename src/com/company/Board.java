@@ -1,5 +1,7 @@
 package com.company;
 
+import com.company.Rooms.Room;
+
 public class Board
 {
     Room[][] map;
